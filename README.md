@@ -33,7 +33,7 @@ Durante los próximos 4 meses, me enfocaré en estudiar un lenguaje cada 30 día
 - **Proyectos pequeños**: Al finalizar el mes, crearé un proyecto sencillo para consolidar lo aprendido.
 - **Documentación y recursos**: Me guiaré por la documentación oficial y recursos adicionales como tutoriales y cursos online.
 
-## Contribuciones
+---------------------------------------------------
 
-Si tienes sugerencias de recursos, herramientas, o proyectos interesantes relacionados con estos lenguajes, ¡estaré encantado de recibir tus contribuciones!
+© 2025 - Proyecto personal de aprendizaje
 
